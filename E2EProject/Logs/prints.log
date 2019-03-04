@@ -1,0 +1,5 @@
+10:10:36.856 [main] INFO  Resources.base - Successfully validated text present
+10:10:56.455 [main] INFO  Resources.base - driver is initialized
+10:11:05.063 [main] INFO  Resources.base - Navigated to homepage
+10:33:31.558 [main] INFO  Resources.base - driver is initialized
+10:33:51.018 [main] INFO  Resources.base - Navigated to homepage
