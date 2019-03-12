@@ -9,6 +9,8 @@ public class demo2 {
 	public void print()
 	{
 		System.out.println("Gitdemo");
+		System.out.println("branch 1");
+		System.out.println("branch2");
 	}
 
 }
